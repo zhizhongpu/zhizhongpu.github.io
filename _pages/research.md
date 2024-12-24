@@ -20,5 +20,3 @@ author_profile: true
 ## Working Papers
 
 ## Peer-Reviewed Publications
-**What makes a strong home language environment? Evidence from rural and peri-urban communities in China**, Revise and Resubmit - *PLOS One*, with Xinwu Zhang, Yue Ma, Yiwei Qian, Lucy Pappas, Sally H. Zhu, Terry D. Shao, Andre Chen, Elaina Mofan Qiu, Sarah-Eve Dill, Flavio Cunha, Scott Rozelle
-

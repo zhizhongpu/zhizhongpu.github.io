@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhizhong Pu"
   avatar           : "profile.jpg"
-  bio              : "Middlebury College, zpu[at]middlebury[dot]edu"
-  location         : "Middlebury, VT"
-  employer         :
+  bio              : "f'z{lastname}@{institution}.edu"
+  location         : "Cambridge, MA"
+  employer         : "Harvard University"
   pubmed           : 
   googlescholar    : 
-  email            : "zpu@middlebury.edu"
+  email            : #"zpu@middlebury.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,18 +103,18 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :  "zhìzhōng-pu" #handle
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-1841-0844"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "PuZhizhong"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  bluesky          : "puzhizhong.bsky.social" # Replace this with you Bluesky username
 
 
 # Reading Files
