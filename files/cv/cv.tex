@@ -1,11 +1,15 @@
 \LoadClass[11pt, letterpaper]{article}
 \documentclass{article}
 
+\usepackage{datetime}
+
+\newdateformat{monthyeardate}{%
+  \monthname[\THEMONTH] \THEYEAR}
+
 \usepackage[top=0.9in, left=0.9in, right=0.9in, bottom=0.9in]{geometry}
 \usepackage{tabto}
 \usepackage{tabularx}
 \usepackage{changepage}
-\usepackage{fontawesome}
 \usepackage{hyperref}
  \hypersetup{
      colorlinks=true,
@@ -20,7 +24,7 @@
 \begin{document}
 
 {\Large \textbf{Zhizhong ``ZZ" Pu}\par}
-    \href{mailto:zpu@hbs.edu}{zpu@hbs.edu} \href{https://github.com/zhizhongpu}{\faGithub} \hspace{0.2em} \\
+    \href{mailto:zpu@hbs.edu}{zpu@hbs.edu}; \href{zhizhongpu.github.io}{zhizhongpu.github.io} \\
     \vspace{-0.1in}
     \rule{\textwidth}{1pt}
     \vspace{0in}
@@ -28,12 +32,20 @@
 {\Large \textbf{Education}}\\
     \vspace{-0.15in}
 	\begin{adjustwidth}{1.5em}{0pt}
-        2020 - 2024, B.A. in Economics, \textit{Phi Beta Kappa, summa cum laude}, \href{http://www.middlebury.edu/}{Middlebury College}\\
-        2022, Visiting Undergraduate Student, \href{http://www.harvard.edu/}{Harvard College}\\
-        2017 - 2019, IBDP, \href{https://www.uwc.org/about}{United World College} Thailand
+        2020--2024, B.A. in Economics, Phi Beta Kappa, \textit{summa cum laude}, \href{http://www.middlebury.edu/}{Middlebury College}\\
+        2022, Visiting Undergraduate Student, \href{http://college.harvard.edu/}{Harvard College}\\
+        2017--2019, IBDP, \href{https://www.uwc.org/about}{United World College} Thailand
     \end{adjustwidth}
     \vspace{0.1in}
 
+
+{\Large \textbf{Working papers}}\\
+    \vspace{-0.15in}
+	\begin{adjustwidth}{1.5em}{0pt}     
+        ``TK", with Martin Abel and Jeffrey Carpenter [\href{https://www.iza.org/}{TK}] \\
+        ``TK" [\href{https://www.iza.org/}{TK}]
+    \end{adjustwidth}
+    \vspace{0.1in}
 
 {\Large \textbf{Work in Progress}}\\
     \vspace{-0.15in}
@@ -43,12 +55,12 @@
     \vspace{0.1in}
 	
 {\Large \textbf{Research Assistant Experiences}}
-% \vspace{-0.15in}
 \begin{adjustwidth}{1.5em}{0pt}
-    2024 - , Associate at Department of Economics, Harvard University \\
-    2024 - , Pre-doctoral Research Associate (Jesse Shapiro), Harvard Business School \\
-    2022 - 2023, Research Assistant (Paul Gompers), Harvard Business School \\
-    2021 - 2022, Research Assistant (Akhil Rao), Middlebury College
+    2024--, Pre-doctoral Research Associate (Jesse Shapiro), Harvard University \\
+    2025, Research Assistant (Christopher Campos) \\
+    2022--2023, Research Assistant (Paul Gompers), Harvard University \\
+    2022, Research Assistant (Melissa Dell), Harvard University \\
+    2021--2022, Research Assistant (Akhil Rao), Middlebury College
 \end{adjustwidth}
 \vspace{0.1in}
 
@@ -74,7 +86,6 @@
     \begin{tabularx}{0.9\textwidth}{@{}X@{\hspace{2em}}l@{}}
         Christian A. Johnson Prize in Economics, Middlebury College & 2024 \\
         College Scholar, Middlebury College & 2020 - 2024 \\
-        William Lowell Putnam Mathematical Competition 635th/2975 (Top 21\%) & 2021 \\
         Davis UWC Scholarship, Middlebury College & 2020 \\
         Semester at Sea Davis Scholarship, Institute of Shipboard Education & 2019 \\
     \end{tabularx}
@@ -97,7 +108,7 @@
 
     
     \begin{center}
-\small {Last updated: Dec 2024}
+\small {Last updated: \monthyeardate\today}
     \end{center}  
     
 \end{document}
