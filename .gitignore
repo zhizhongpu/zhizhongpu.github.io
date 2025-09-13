@@ -4,3 +4,5 @@ _site/
 *.fdb_latexmk
 *.fls
 *.aux
+*.out
+files/cv/cv.log
