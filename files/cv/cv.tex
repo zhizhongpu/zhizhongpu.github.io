@@ -20,6 +20,20 @@
      }
 \setlength{\parindent}{0pt}
 
+\usepackage{titlesec}
+
+% Define section format
+\titleformat{\section}
+  {\Large\bfseries}   % font
+  {}                  % label (empty, since you don’t want numbers)
+  {0pt}               % spacing between label and title
+  {}                  % code before title
+
+% Control spacing before/after
+\titlespacing*{\section}
+  {0pt}    % left indent
+  {0.2in}  % space before
+  {0.1in}  % space after
 
 \begin{document}
 
@@ -29,32 +43,26 @@
     \rule{\textwidth}{1pt}
     \vspace{0in}
 
-{\Large \textbf{Education}}\\
-    \vspace{-0.15in}
+\section*{Education}
 	\begin{adjustwidth}{1.5em}{0pt}
         2020--2024, B.A. in Economics, Phi Beta Kappa, \textit{summa cum laude}, \href{http://www.middlebury.edu/}{Middlebury College}\\
         2022, Visiting Undergraduate Student, \href{http://college.harvard.edu/}{Harvard College}\\
         2017--2019, IBDP, \href{https://www.uwc.org/about}{United World College} Thailand
     \end{adjustwidth}
-    \vspace{0.1in}
 
-{\Large \textbf{Working papers}}\\
-    \vspace{-0.15in}
+\section*{Working Papers}
 	\begin{adjustwidth}{1.5em}{0pt}     
         ``TK", with Martin Abel and Jeffrey Carpenter [\href{https://www.iza.org/}{TK}] \\
         ``TK" [\href{https://www.iza.org/}{TK}]
     \end{adjustwidth}
-    \vspace{0.1in}
 
-{\Large \textbf{Work in Progress}}\\
-    \vspace{-0.15in}
+\section*{Work in Progress}
 	\begin{adjustwidth}{1.5em}{0pt}     
         ``Solutions to Bruce Hansen's \textit{Econometrics}" [\href{https://github.com/zhizhongpu/solutions_econometrics_hansen}{Github Repo}]
     \end{adjustwidth}
-    \vspace{0.1in}
 	
-{\Large \textbf{Research Assistant Experiences}}
-    \begin{adjustwidth}{1.5em}{0pt}
+\section*{Research Assistant Experiences}
+    \begin{adjustwidth}{1.5em}{0pt}     
         2024--, Pre-doctoral Research Associate (Jesse Shapiro), Harvard University \\
         2025, Research Assistant (Christopher Campos) \\
         2022--2023, Research Assistant (Paul Gompers), Harvard University \\
@@ -63,8 +71,7 @@
     \end{adjustwidth}
     \vspace{0.1in}
 
-{\Large \textbf{Honors, Awards, and Scholarships}}\\
-    \vspace{-0.15in}
+\section*{Honors, Awards, and Scholarships}
     \begin{adjustwidth}{1.5em}{0pt}
     \begin{tabularx}{0.9\textwidth}{@{}X@{\hspace{2em}}l@{}}
         Christian A. Johnson Prize in Economics, Middlebury College & 2024 \\
@@ -73,25 +80,23 @@
         Semester at Sea Davis Scholarship, Institute of Shipboard Education & 2019 \\
     \end{tabularx}
     \end{adjustwidth}
-    \vspace{0.1in}
 
-{\Large \textbf{Teaching Assistant Experiences}}
+\section*{Teaching Assistant Experiences}
     \begin{adjustwidth}{1.5em}{0pt}
         2021, Positive Psychology, Catherine Sanderson, Amherst College LAISS \\
         2019, The French Revolution, Ellen Boucher, Amherst College LAISS
     \end{adjustwidth}
     \vspace{0.1in}        
 
-{\Large \textbf{Professional Service}}\\
+\section*{Professional Service}
     \vspace{-0.15in}
 	\begin{adjustwidth}{1.5em}{0pt}
 	Student Advisory Committee Member, Middlebury College Economics Department (2022 - 2023)
- 
     \end{adjustwidth}
 
     
-    \begin{center}
-\small {Last updated: \monthyeardate\today}
-    \end{center}  
+\begin{center}
+    \small {Last updated: \monthyeardate\today}
+\end{center}  
     
 \end{document}
