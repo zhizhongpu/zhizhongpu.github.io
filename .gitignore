@@ -1,2 +1,6 @@
 _site/
 *.DS_Store
+*.gz
+*.fdb_latexmk
+*.fls
+*.aux
