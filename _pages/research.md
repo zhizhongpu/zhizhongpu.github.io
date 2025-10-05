@@ -25,4 +25,4 @@ author_profile: true
 
 ## Work In Progress
 
-Please reach out via email if you are interested.
+Please reach out if you are interested.
