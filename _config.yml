@@ -289,3 +289,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Publication Category - The following the list of publication categories and their headings
+publication_category:
+  working_papers:
+    title: 'Working Papers'    
