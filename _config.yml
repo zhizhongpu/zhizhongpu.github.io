@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhizhong Pu"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "f'{first_initial}{lastname}@hbs.edu'"
   location         : "Cambridge, MA"
   employer         : "Harvard University"
