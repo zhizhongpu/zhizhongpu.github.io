@@ -17,11 +17,11 @@ author_profile: true
 
 ## Working Papers
 
-[Human Capital Response to Import Competition](files/cv/cv.pdf) (Sep 2023)
+[Labor Market Implications of Grade Inflation](files/cv/cv.pdf) (Nov 2025), with Martin Abel and Jeffrey Carpenter
 
 [Talent Cost of Cyclic Hiring in US Universities](files/cv/cv.pdf) (Oct 2025)
 
-[Labor Market Implications of Grade Inflation](files/cv/cv.pdf) (Nov 2025), with Martin Abel and Jeffrey Carpenter
+[Human Capital Response to Import Competition](files/cv/cv.pdf) (Sep 2023)
 
 ## Work In Progress
 

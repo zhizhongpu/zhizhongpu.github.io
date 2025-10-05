@@ -6,3 +6,4 @@ _site/
 *.aux
 *.out
 files/cv/cv.log
+output/paper/cv.log
