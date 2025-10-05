@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhizhong Pu"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "f'{first_initial}{lastname}@hbs.edu'"
   location         : "Cambridge, MA"
   employer         : "Harvard University"
@@ -289,3 +289,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Publication Category - The following the list of publication categories and their headings
+publication_category:
+  working_papers:
+    title: 'Working Papers'    
