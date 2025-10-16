@@ -17,11 +17,11 @@ author_profile: true
 
 ## Working Papers
 
-[Labor Market Implications of Grade Inflation](../files/research/human_capital_response/paper.pdf) (Nov 2025), with Martin Abel and Jeffrey Carpenter
+Labor Market Implications of Grade Inflation (Nov 2025), with Martin Abel and Jeffrey Carpenter; [Draft](../files/research/human_capital_response/paper.pdf)
 
-[Talent Cost of Cyclic Hiring in US Universities](../files/research/edmt_cycle/paper.pdf) (Oct 2025); [Slides](../files/research/edmt_cycle/slides.pdf)
+Talent Cost of Cyclic Hiring in US Universities (Oct 2025); [Draft](../files/research/edmt_cycle/paper.pdf); [Slides](../files/research/edmt_cycle/slides.pdf)
 
-[Human Capital Response to Import Competition](../files/research/grade_inflation/paper.pdf) (Sep 2023)
+Human Capital Response to Import Competition (Sep 2023); [Draft](../files/research/grade_inflation/paper.pdf)
 
 ## Work In Progress
 
