@@ -26,3 +26,11 @@ Human Capital Response to Import Competition (Sep 2023, Junior Thesis); Draft av
 ## Work In Progress
 
 Please reach out if you are interested.
+
+<details>
+  <summary>Click to expand</summary>
+
+  Your hidden content goes here.  
+  It can include Markdown, links, lists, PDFs, etc.
+
+</details>
