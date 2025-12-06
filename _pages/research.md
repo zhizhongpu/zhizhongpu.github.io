@@ -34,7 +34,7 @@ Labor Market Implications of Grade Inflation (Nov 2025), with Martin Abel and Je
 
 Human Capital Response to Import Competition (Sep 2023, Junior Thesis); Draft available upon request.
 
-<details markdown = "1"> <summary>Abstract</summary>
+<details class="paper-abstract" markdown = "1"> <summary>Abstract</summary>
   *Recent literature increasingly observes negative effects of trade and import exposure on local labor markets in the U.S., but it remains unclear how local labor force adapts to trade shocks in the long run. I investigate the human capital response in U.S. local labor markets to increased Chinese import exposure from 1990 to 2007. Using administrative post-secondary enrollment data and an instrumental variable approach, I find insignificant university enrollment changes in response to Chinese import shocks. The null result holds when restricting my analysis to community colleges, contrary to prior literature. However, I observe significant yet small increases in public university enrollment due to Chinese import exposure. Overall, these findings suggest that the spontaneous human capital response to import competition is negligible.*
 </details>
 
