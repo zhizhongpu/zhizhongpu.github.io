@@ -17,9 +17,9 @@ author_profile: true
 
 ## Working Papers
 
-Labor Market Implications of Grade Inflation (Nov 2025), with Martin Abel and Jeffrey Carpenter; [Draft](../files/research/human_capital_response/paper.pdf)
+Should Universities Smooth Faculty Hiring? Theory and Evidence (Dec 2025); [Draft](../files/research/EdmtCycle/paper.pdf)
 
-Talent Cost of Cyclic Hiring in US Universities (Oct 2025); [Draft](../files/research/EdmtCycle/paper.pdf)
+Labor Market Implications of Grade Inflation (Nov 2025), with Martin Abel and Jeffrey Carpenter; [Draft](../files/research/human_capital_response/paper.pdf)
 
 Human Capital Response to Import Competition (Sep 2023, Junior Thesis); Draft available upon request.
 
