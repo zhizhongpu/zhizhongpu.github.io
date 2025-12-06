@@ -19,10 +19,12 @@ author_profile: true
 
 Should Universities Smooth Faculty Hiring? Theory and Evidence (Dec 2025); [Draft](../files/research/EdmtCycle/paper.pdf)
 
+<div style="margin-left: 1.5rem;">
 <details markdown = "1">
   <summary>Abstract</summary>
   *U.S. universities often adjust operations sharply in response to financial shocks. Yet this practice may be costly when shocks affect peer institutions: contraction by peers reduces competition for key inputs, creating favorable conditions to expand rather than contract. I study whether universities could improve outcomes by smoothing faculty hiring over time. I first show that hiring responds to endowment revenue shocks. I then build models of faculty hiring and characterize the identified set of gains from adopting counterfactual, shock-independent hiring schemes. Applying my models to two decades of hiring data at top sociology departments, I find little evidence that alternative hiring schemes improve hire quality.*
 </details>
+</div>
 
 Labor Market Implications of Grade Inflation (Nov 2025), with Martin Abel and Jeffrey Carpenter; [Draft](../files/research/human_capital_response/paper.pdf)
 
