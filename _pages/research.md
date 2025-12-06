@@ -28,7 +28,7 @@ Should Universities Smooth Faculty Hiring? Theory and Evidence (Dec 2025); [Draf
 
 Labor Market Implications of Grade Inflation (Nov 2025), with Martin Abel and Jeffrey Carpenter; [Draft](../files/research/human_capital_response/paper.pdf)
 
-<details markdown = "1"> <summary>Abstract</summary>
+<details class="wp-subblock" markdown = "1"> <summary>Abstract</summary>
   *We study how grading regimes shape employers’ interpretation of academic credentials. We first assign math test takers to receive inflated, compressed, or standard grading distributions while holding underlying test performance constant. In an incentivized online experiment, participants acting as hiring managers observe letter grades in a randomly assigned regime and set wages to maximize payoffs based on inferred test scores and underlying ability. %We use these data to estimate how managers weight priors versus grade signals. Consistent with theory, coarser grading leads managers to place less weight on the signal. However, grade inflation raises inferred average test performance and ability, indicating an upward shift in beliefs even as precision declines. More broadly, signal coarsening reduces selection efficiency and increases reliance on priors, which can exacerbate inequities. In particular, among participants who believe men have higher math ability, the gender wage gap widens.*
 </details>
 
