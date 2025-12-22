@@ -26,7 +26,7 @@ author_profile: true
 </details>
 </div>
 
-*Labor Market Implications of Grade Inflation* (Nov 2025), with Martin Abel and Jeffrey Carpenter; [Draft](../files/research/human_capital_response/paper.pdf)
+*Labor Market Implications of Grade Inflation* (Nov 2025), with Martin Abel and Jeffrey Carpenter; Draft available upon request
 
 <div style="margin-left: 1.5rem;">
 <details markdown = "1"> <summary>Abstract</summary>
