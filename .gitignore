@@ -7,3 +7,4 @@ _site/
 *.out
 files/cv/cv.log
 output/paper/cv.log
+/.sass-cache
