@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Working Papers
+---
 
 *Should Universities Smooth Faculty Hiring? Theory and Evidence* (Dec 2025); [Draft](../files/research/EdmtCycle/paper.pdf)
 
@@ -33,5 +34,6 @@ author_profile: true
 </div>
 
 ## Work In Progress
+---
 
 Please reach out if interested.
